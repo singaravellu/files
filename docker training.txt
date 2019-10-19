@@ -1,0 +1,117 @@
+Why Containers?
+
+----------------------------------------------------------------------------------------------------------------
+
+History of Docker
+
+----------------------------------------------------------------------------------------------------------------
+
+Architecture and Theory
+	Kernel Primitives
+	Docker Engine
+
+***************************************************************************************************************
+docker version
+
+docker info
+
+docker run hello-world
+
+docker ps
+
+docker ps -a
+
+docker info
+
+docker images
+
+docker run hello-world
+	notice something?
+
+---------------------------------------------------------------------------------------------------
+Containers and Images
+	Images - Layers of related files or other images(of some program) on the disk or Stopped Containers
+	Containers - Running images or Processes
+
+No Images, No Containers!
+
+----------------------------------------------------------------------------------------------------------------
+docker pull alpine
+
+
+docker pull ubuntu
+
+
+docker pull ubuntu:14.04
+
+
+docker images
+
+----------------------------------------------------------------------------------------------------------------
+
+checkout: https://hub.docker.com
+
+----------------------------------------------------------------------------------------------------------------
+
+docker rmi ubuntu:14.04
+
+docker images
+
+----------------------------------------------------------------------------------------------------------------
+Lifecycle of the container
+	
+	docker start <container>
+	docker stop <container>
+	docker rm <container>
+	
+Let's find tomcat and nginx container images on docker hub and run it as a container on our machine.
+
+Now, check if the container is running
+	docker ps
+	docker ps -a
+
+Now stop the container and restart it in deatched mode
+
+Now, run a new tomcat container in attached mode
+
+Now, Try to attach an existing running container 
+
+Now, exit from the container without stopping it.
+
+NOTE:- If /bin/bash is the only process running in the container than "exit" command from inside the container will also exit the conatiner. Press "Ctrl p+q" to exit from the container without killing the container.
+
+
+docker ps -aq
+	It will return all the container Ids
+
+
+docker stop $(docker ps -aq)
+	It will stop all the containers in 1 command
+
+
+docker rm $(docker ps -aq)
+	It will remove all the containers in 1 command
+
+
+docker rmi $(docker images -q)
+	It will remove all the images in 1 command
+
+
+****************************************************************************************************************
+
+For more instrcutions in Dockerfile:-
+
+	https://docs.docker.com/engine/reference/builder/
+
+
+
+
+
+
+
+
+
+
+
+
+

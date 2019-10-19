@@ -1,0 +1,10 @@
+Fully Automated Jenkins Pipeline
+
+Jenkinsfile:
+v0.4: https://github.com/jleetutorial/maven-project/blob/v0.4/Jenkinsfile
+
+Deploy Tomcat to local box instead:
+If you want to deploy tomcat on local box instead of to EC2 boxes on the cloud. You need to make two changes in the Jenkinsfile.
+
+1. Use cp instead of scp command to copy artifact to tomcat directory on the local box.
+2. Use localhost as the server IPs.

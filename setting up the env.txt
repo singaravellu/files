@@ -1,0 +1,69 @@
+1. Install JDK
+2. Download Jenkins in .war format (check my mail for link)
+3. In C: drive create a folder named "jenkins-software"
+4. Copy the jenkins.war file in this(jenkins-software) folder
+5. open command prompt and type "java" and hit ENTER, it should list the content of the command
+	5.1) IN case of failure on java command do following:-
+		5.1.1) set PATH=%PATH%;C:\[path-to-jdk-bin-dircetory];
+		5.1.2) repeat step 5
+6. In Cmd 
+	C:\jenkins-software> java -jar jenkins.war
+
+[Jenkins is fully up and running] in the logs
+
+7> open browser and type below URL
+	http://localhost:8080/
+
+8) Jenkins home will ask for secret key, you will get this secret key from below path
+	C:\Users\<username>\.jenkins\secrets\initialAdminPassword
+
+	open this initialAdminPassword file with notepad and copy the key and paste it in the jenkins home page textbox
+
+9) Click on Install recommended plugins, this will fail, as we are behind CG Proxy server. Let it fail don't worry!
+
+10) Click on Continue
+
+11) Create admin user and remember the password.
+
+12) Now login with the admin user
+
+13) Jenkins Dashboard is ready now.
+
+14) Goto my github repo and download the plugins folder
+	https://github.com/satyensingh/jenkins-plugins.git
+
+15) Copy this plugins folder and paste it in 
+	C:\Users\<username>\.jenkins\
+
+READY!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+certifications-team@redhat.com
