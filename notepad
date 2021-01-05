@@ -1,0 +1,153 @@
+7J:kLG2]2q
+
+singaraveluvenkatesh@gmail.com
+https://ibegin.tcs.com/iBegin/login
+
+
+
+1.git reset --hard
+2.git pull vas git pull --rebase
+
+jenkins:-
+windows:scheduler
+
+rightclick on mypc->manage->tashscheduler->rightclick createbasic task
+
+customer-balance
+git config --global user.email @cox.com
+
+sudo apt-cache serach open-jdk
+sudo apt-get install openjdk-8-jdk -y
+sudo service jenkins status.
+sudo systemctl enable jenkins.service
+jenkins pulgins:-
+jobnotifications
+artifactory configuration
+moredetails
+email-extn plugin
+
+sales-address
+south picture garbage urban jeans hair want soft core ten deliver gentle
+
+Trainbooking@123
+
+master-node:-
+node:-
+prequistis
+1.java should be installed
+2.install maven
+3.git
+https://gitlab.com/tmobile/templates/tmo/master/gitlab-ci/
+
+
+
+https://www.jenkins.io/doc/pipeline/steps/pipeline-input-step/ please look into parameters where we have submitters and store the response like def $resp = input message: 'Hello'  etc
+
+netsparker
+
+scripted pipeline :-
+node {
+}
+
+declarative pipeline
+pipeline{
+}
+
+smtptogo
+
+
+
+Get-ChildItem Env:-->to get all env valriables in windows
+$env:<var-name>="<value>"
+
+
+labels in pod level or container level
+C:\Users\singvenk\OneDrive - Capgemini\Desktop\kuber\fruit-service-pod.yml
+--restart=true
+kubernets container config
+curl -fsSL https://get.docker.com -o get-docker.sh
+ sh get-docker.sh
+
+https://www.youtube.com/watch?v=Ia-UEYYR44s&t=1902s--aws10hr
+https://www.whizlabs.com/learn/course/quiz-result/2005907
+
+https://capgemini-my.sharepoint.com/personal/onkar_deshpande_capgemini_com/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9jYXBnZW1pbmktbXkuc2hhcmVwb2ludC5jb20vOmY6L3Avb25rYXJfZGVzaHBhbmRlL0Voa1lSNTBRRFRoQXFhSUtXdWxmZnZJQkptRHAxLVJNSXRkR3FBQWRnYmswcFE%5FcnRpbWU9QXNvc0Q2VGwxMGc&viewid=a234420e%2D24cd%2D400e%2D9398%2D21e581a7ae02&id=%2Fpersonal%2Fonkar%5Fdeshpande%5Fcapgemini%5Fcom%2FDocuments%2FDaily%20Tracker%2FAWS%2DCertification%20%2D%20Tracker%20Sheet%20%2D2020v
+
+netstat -tupln -- check the port is in use or not 
+
+Welcome@123
+docker run -d -p 9000:9000 --name sonarqube  sonarqube
+
+
+/etc/passwd---to see which shell
+ps $$--tells current shell
+cloberring
+set -o noclobber 
+https://crontab.guru/
+env,set:more,
+/usr/lib/jvm/java-11-openjdk
+https://jira.t-mobile.com/servicedesk/customer/portal/149/DDEM-2001
+oms--
+digital-pks env
+/usr/lib/jvm/java-8-openjdk-amd64/bin
+
+checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [[$class: 'LocalBranch', localBranch: 'dummy']], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/humblemetsuke/coursework_2']]])
+
+docker run  -d -p 8081:8080 -v /var/lib/jenkins/workspace/pipeline-job1/webapp/target/webapp.war:/usr/local/tomcat/webapps/webapp.war   --name tomcat tomcat:9 
+
+active-reactive
+
+mt5
+37,33
+
+325/305
+paramterised trigger plugin --sending vaule from one job to another job 
+
+.bashrc for particular users
+profile for all users who logged in
+
+path env variable
+
+visual modular
+
+plpr-2.38
+environemnt
+https://projecteuler.net/
+
+kishor.ghanekar@capgemini.com
+F5H3XXFLJ
+
+https://www.whizlabs.com/my-account/
+rekhavijayan03@gmail.com
+Whiz123@
+@9HFkw9&5@
+portwalks
+
+test-driven infrastructure 
+Newpassword#07
+
+https://tutorialsdojo.com/aws-cheat-sheets/
+---------azure --
+nflvydawnblihpmbqnbssjj66utkewjgoxsadbg4wjpuyvdo3wea
+
+rl3suyelnr3ovfagvvmdsz4o3ogo4i3aneh34gxoni2jnjbexnla
+
+https://degreed.com/?orgsso=capgemini---net\xt
+
+100392223--benchcode
+
+you can't give glacier
+
+sudo usermod -a -G docker jenkins 
+sudo service jenkins restart
+
+docker run -d --name sonarqube -p 9000:9000 sonarqube:7.9.3-community
+
+
+
+books:
+your brain at work
+who moved my cheese  auth:dr spenser
+richdadpoorddad
+linuxbible
+art of computer programming
